@@ -57,3 +57,6 @@ build-*/
 # Visual Studio
 .vs/
 CMakeSettings.json
+
+# Visual Studio Code Sucks
+.AddCompLib/
